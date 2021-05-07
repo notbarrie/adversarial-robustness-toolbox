@@ -62,4 +62,3 @@ if __name__ == "__main__":
 
     generated = attacker.generate(test_x_batch)
     print(generated.shape)
-
